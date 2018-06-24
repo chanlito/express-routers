@@ -1,6 +1,6 @@
 {
   "name": "express-routers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express Routers 🚦 - just another way to create router in express apps.",
   "keywords": [
     "express",
